@@ -46,12 +46,11 @@ Applicazione per la gestione di task con interfaccia dinamica, filtri e aggiorna
 **Tech:** React, JavaScript, CSS, API REST  
 👉 https://github.com/AlicePisciuneri/react-task-manager
 
----
+## 📍 Cosa sto costruendo ora
 
-### Portfolio Web – in sviluppo
-Sito portfolio personale progettato per unire sviluppo front-end, contenuti e scrittura editoriale.
-
----
+- Un portfolio che unisce sviluppo front-end e scrittura editoriale  
+- Un modo di lavorare che tenga insieme tecnica, contenuto e chiarezza  
+- Le basi per integrare strumenti di AI nel lavoro digitale in modo consapevole  
 
 ## ✍️ Un po’ più in profondità
 
